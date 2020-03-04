@@ -1,0 +1,15 @@
+{
+    "id": "8d5db94a-39d0-4ace-9bdd-7054a96108c6",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rocket.Chat",
+        "homepage": "m.patrawala@somaiya.edu",
+        "support": "m.patrawala@somaiya.edu"
+    },
+    "name": "Dialogflow Integration first",
+    "nameSlug": "dialogflow-integration-first",
+    "classFile": "DialogflowIntegrationFirstApp.ts",
+    "description": "1st test"
+}
